@@ -1,9 +1,9 @@
 # Trabajo Práctico 4: Recursividad
 
 ## Información del Alumno
-- Nombre: 
-- Apellido:
-- Legajo:
+- Nombre: Santino
+- Apellido: Vitale
+- Legajo: 64006
 
 ## Objetivos
 - Comprender y aplicar el concepto de recursividad
